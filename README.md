@@ -2,6 +2,8 @@
 # Proyecto CV - Potafolio
 
 Proyecto final Modulo 1 Desafio Latam
+Fork 1 y commit => https://github.com/cayupaan/cayupaan.github.io
+Fork 2 y commit => 
 
 
 ## Deployment
